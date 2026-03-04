@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className='flex justify-between items-center    h-14 sm:h-16 md:h-20'>
             <div className='flex items-center space-x-1'>
         <div className=''>
-            <img src="/img/logo.png" alt="Codeflow" className='w-6 h-6 sm:w-9 sm:h-9' />
+            <img src="/logo.png" alt="Codeflow" className='w-6 h-6 sm:w-9 sm:h-9' />
          </div>
          <span className='text-lg sm:xl md:2xl font-medium group cursor-pointer'>
             <span className='text-white' >Code</span>
